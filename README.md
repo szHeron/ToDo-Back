@@ -36,6 +36,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [NodeJs](https://nodejs.org/)
 - [ExpressJs](https://expressjs.com/pt-br/)
 - [Javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Mongodb](https://www.mongodb.com/pt-br)
 
 ## 🚀 Como executar
 
